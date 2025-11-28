@@ -7,37 +7,37 @@ MediMinder (MediMate AI) is an intelligent healthcare management and medicine ad
  Project Overview
 
 MediMinder aims to:
-✔ Improve accessibility to healthcare  
-✔ Reduce clinical and administrative workload  
-✔ Automate medicine reminders and adherence tracking  
-✔ Enable AI-assisted medical guidance  
-✔ Support digital prescriptions and report generation  
-✔ Build a connected and patient-centric healthcare ecosystem  
+1.Improve accessibility to healthcare  
+2. Reduce clinical and administrative workload  
+3. Automate medicine reminders and adherence tracking  
+4. Enable AI-assisted medical guidance  
+5. Support digital prescriptions and report generation  
+6. Build a connected and patient-centric healthcare ecosystem  
 
 
  Key Features
 
 1.AI Doctor Assistant
-- Provides preliminary symptom-based guidance
-- Offers general health information and triage support
+  Provides preliminary symptom-based guidance
+  Offers general health information and triage support
 
 2.Smart Appointment Scheduling
-- Connects patients with real doctors
-- Slot booking, cancellation, rescheduling
+  Connects patients with real doctors
+  Slot booking, cancellation, rescheduling
 
 3.Patient Health Dashboard
-- Displays vitals, prescriptions, schedules, and reports
+  Displays vitals, prescriptions, schedules, and reports
 
 4.Smart Medicine Reminder System
-- Sends automated voice, SMS, and in-app reminders
-- Tracks medicine confirmation using voice detection
+  Sends automated voice, SMS, and in-app reminders
+  Tracks medicine confirmation using voice detection
 
 5.Doctor Dashboard
-- Manage patient records, reports, and prescriptions
-- Real-time notifications and appointments
+  Manage patient records, reports, and prescriptions
+  Real-time notifications and appointments
 
 6.Automated Medical Report Generation
-- AI-based digital prescription and analysis sheets
+  AI-based digital prescription and analysis sheets
 
 
 
@@ -45,7 +45,7 @@ Tech Stack
 
 | Category      | Technologies |
 |---------------|-------------|
-| Frontend      | React.js, React Native |
+| Frontend      | React.js|
 | Backend       | Node.js, Express.js |
 | AI/ML         | Python, Gemini, MTCNN, FaceNet |
 | Database      | MongoDB / Firebase |
