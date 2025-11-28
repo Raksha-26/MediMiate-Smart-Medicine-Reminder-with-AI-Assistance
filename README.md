@@ -55,15 +55,19 @@ Tech Stack
 
 Installation & Setup
 
-1.Clone the repository
+1.Clone the repository:
+
 git clone https://github.com/your-repo/mediminder.git
 cd Doctor-Demo
 
-2️.Install dependencies
+2️.Install dependencies:
+
 npm install
 
-3.Run the project
+3.Run the project:
+
 npm run dev
+
 
 Future Enhancements
 
